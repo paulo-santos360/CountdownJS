@@ -5,7 +5,6 @@ Este projeto apresenta uma página de contagem regressiva para um sorteio de iPh
 ## ℹ️ Sobre o Projeto
 
 - **Título:** CountdownJS - Sorteio de iPhone
-- **Data de Encerramento do Sorteio:** Domingo, 24 de Abril de 2020, às 8:00 da manhã
 
 ## 📷 Pré-visualização
 
