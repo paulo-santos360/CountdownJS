@@ -9,7 +9,7 @@ Este projeto apresenta uma página de contagem regressiva para um sorteio de iPh
 
 ## 📷 Pré-visualização
 
-![Pré-visualização](img/gift.jpeg)
+![Pré-visualização](img/2023-09-11%2014-57-57.gif)
 
 Veja uma animação do projeto em ação: [GIF Animado](URL_DO_SEU_GIF)
 
