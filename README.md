@@ -12,6 +12,7 @@ Este projeto apresenta uma página de contagem regressiva para um sorteio de iPh
 
 Veja uma animação do projeto em ação: [GIF Animado](URL_DO_SEU_GIF)
 
+
 ## ⏳ Contador Regressivo
 
 Neste projeto, implementamos um contador regressivo para informar os usuários sobre o prazo final do sorteio do iPhone. O contador utiliza JavaScript para calcular o tempo restante e atualiza dinamicamente a página.
